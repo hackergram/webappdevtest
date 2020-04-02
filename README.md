@@ -11,7 +11,7 @@ The app is a modification of prior work by [karan100010](https://github.com/kara
 
 ```
     git clone https://github.com/hackergram/webappdevtest
-    cd coalvisualization
+    cd webappdevtest
     npm install
     node server.js
 ```

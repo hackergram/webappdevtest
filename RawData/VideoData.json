@@ -1,0 +1,129 @@
+{
+  "states": {
+    "Uttar Pradesh": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 1"
+        }
+      ],
+      "coordinates": {
+        "latitude": "26.8467",
+        "longitude": "80.9462"
+      }
+    },
+    "Jharkhand": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 2"
+        }
+      ],
+      "coordinates": {
+        "latitude": "23.6102",
+        "longitude": "85.2799"
+      }
+    },
+    "West Bengal": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 4"
+        }
+      ],
+      "coordinates": {
+        "latitude": "22.9868",
+        "longitude": "87.855"
+      }
+    },
+    "Rajasthan": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 6"
+        }
+      ],
+      "coordinates": {
+        "latitude": "27.0238",
+        "longitude": "74.2179"
+      }
+    },
+    "Tamil Nadu": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 8"
+        }
+      ],
+      "coordinates": {
+        "latitude": "11.1271",
+        "longitude": "78.6569"
+      }
+    },
+    "Maharashtra": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 13"
+        }
+      ],
+      "coordinates": {
+        "latitude": "19.7515",
+        "longitude": "75.7139"
+      }
+    },
+    "Telangana": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 5"
+        },
+        {
+          "link": "",
+          "caption": "Person 12"
+        }
+      ],
+      "coordinates": {
+        "latitude": "18.1124",
+        "longitude": "79.0193"
+      }
+    },
+    "Karnataka": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 9"
+        },
+        {
+          "link": "",
+          "caption": "Person 10"
+        }
+      ],
+      "coordinates": {
+        "latitude": "15.3173",
+        "longitude": "75.7139"
+      }
+    },
+    "Delhi (NCR)": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 3"
+        },
+        {
+          "link": "",
+          "caption": "Person 7"
+        },
+        {
+          "link": "",
+          "caption": "Person 11"
+        }
+      ],
+      "coordinates": {
+        "latitude": "28.7041",
+        "longitude": "77.1025"
+      }
+    }
+  },
+  "totalBlocks": 13
+}

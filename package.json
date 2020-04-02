@@ -1,0 +1,31 @@
+{
+  "name": "caaprotests",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "12.14.0",
+    "npm": "6.13.4"
+  },
+  "main": "server.js",
+  "scripts": {
+    "client": "cd client && yarn start",
+    "server": "nodemon server.js",
+    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\"",
+    "dev:server": "cd client && yarn build && cd .. && yarn start",
+    "start": "node server.js",
+    "heroku-postbuild": "cd client && npm install && npm install --only=dev --no-shrinkwrap && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^4.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "react-instagram-embed": "^1.5.0",
+    "request": "^2.88.0",
+    "tabletop": "^1.6.2"
+  }
+}

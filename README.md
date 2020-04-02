@@ -6,9 +6,10 @@
 
 The app is a modification of prior work by [karan100010](https://github.com/karan100010).
 
+
 1. Clone and run the following to start the express server:
 
-    git clone https://github.com/karan100010/coalvisualization.git
+    git clone https://github.com/hackergram/webappdevtest
     cd coalvisualization
     npm install
     node server.js

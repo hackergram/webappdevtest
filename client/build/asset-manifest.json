@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1939d0d.chunk.css",
+    "main.js": "/static/js/main.8b946c79.chunk.js",
+    "main.js.map": "/static/js/main.8b946c79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1dc66141.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1dc66141.js.map",
+    "static/js/2.d6d45376.chunk.js": "/static/js/2.d6d45376.chunk.js",
+    "static/js/2.d6d45376.chunk.js.map": "/static/js/2.d6d45376.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.98ff43b96976c4417083a1ab43d265bc.js": "/precache-manifest.98ff43b96976c4417083a1ab43d265bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d1939d0d.chunk.css.map": "/static/css/main.d1939d0d.chunk.css.map",
+    "static/js/2.d6d45376.chunk.js.LICENSE": "/static/js/2.d6d45376.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/Signika-Bold.6bc3acea.ttf",
+    "static/media/close.svg": "/static/media/close.a50ed734.svg",
+    "static/media/info.svg": "/static/media/info.6992069b.svg",
+    "static/media/twitter.svg": "/static/media/twitter.7a17a52d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dc66141.js",
+    "static/js/2.d6d45376.chunk.js",
+    "static/css/main.d1939d0d.chunk.css",
+    "static/js/main.8b946c79.chunk.js"
+  ]
+}

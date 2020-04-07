@@ -46,9 +46,9 @@ export function MapLayer(props) {
         >
         <ReactMapGL
             {...viewport}
-            mapboxApiAccessToken={"pk.eyJ1IjoiaGFja2VyZ3JhbSIsImEiOiJjazhpb3B3ODkwNGN4M21tajhzOGRjbXVrIn0.QKSLcjCgwRvSnwkCBXOaHQ"}
+            mapboxApiAccessToken={"pk.eyJ1IjoidGhpc2lzYW5vdGhlcnRlc3QiLCJhIjoiY2s4cG9tOXFyMTV5djNrcXpnYmtxZ2hmMCJ9.z-svIPZaBRzZxYBQAjL30g"}
             onViewportChange = {viewport => {setViewport(viewport)}}
-            mapStyle="mapbox://styles/hackergram/ck8ioxu2f1nss1iqdl9zxwymd"
+            mapStyle="mapbox://styles/thisisanothertest/ck8poooti10i71in24melik54"
         >
             {totalCities.map((city, index) => {
                 return (

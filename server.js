@@ -15,6 +15,10 @@ app.use(bodyParser.urlencoded({
 }));
 const publicSpreadsheetUrl = "https://docs.google.com/spreadsheets/d/1KZtJDrmyam3LW4cK59ECbL7UKDzvQgWzaJAfyNK9XBI/edit?usp=sharing";
 
+app.get('/', (req, res) => {
+  res.send("Hello");
+})
+
 // Datasource check with datasrc var
 app.get('/getBlockData', async (req, res) => {
   if (datasrc === "TSV") {

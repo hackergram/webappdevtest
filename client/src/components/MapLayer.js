@@ -48,7 +48,7 @@ export function MapLayer(props) {
             {...viewport}
             mapboxApiAccessToken={"pk.eyJ1IjoiaGFja2VyZ3JhbSIsImEiOiJjazhpb3B3ODkwNGN4M21tajhzOGRjbXVrIn0.QKSLcjCgwRvSnwkCBXOaHQ"}
             onViewportChange = {viewport => {setViewport(viewport)}}
-            mapStyle="mapbox://styles/hackergram/ck8ioxu2f1nss1iqdl9zxwymd"
+            mapStyle="mapbox://styles/mapbox/streets-v11"
         >
             {totalCities.map((city, index) => {
                 return (

@@ -1,34 +1,14 @@
 {
   "states": {
-    "Uttar Pradesh": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Person 1"
-        }
-      ],
-      "coordinates": {
-        "latitude": "26.8467",
-        "longitude": "80.9462"
-      }
-    },
-    "Jharkhand": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Person 2"
-        }
-      ],
-      "coordinates": {
-        "latitude": "23.6102",
-        "longitude": "85.2799"
-      }
-    },
     "West Bengal": {
       "blocks": [
         {
           "link": "",
           "caption": "Person 4"
+        },
+        {
+          "link": "",
+          "caption": "Person 17"
         }
       ],
       "coordinates": {
@@ -36,11 +16,47 @@
         "longitude": "87.855"
       }
     },
+    "Uttar Pradesh": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 1"
+        },
+        {
+          "link": "",
+          "caption": "Person 14"
+        },
+        {
+          "link": "",
+          "caption": "Person 28"
+        },
+        {
+          "link": "",
+          "caption": "Person 41"
+        }
+      ],
+      "coordinates": {
+        "latitude": "26.8467",
+        "longitude": "80.9462"
+      }
+    },
     "Rajasthan": {
       "blocks": [
         {
           "link": "",
           "caption": "Person 6"
+        },
+        {
+          "link": "",
+          "caption": "Person 19"
+        },
+        {
+          "link": "",
+          "caption": "Person 33"
+        },
+        {
+          "link": "",
+          "caption": "Person 46"
         }
       ],
       "coordinates": {
@@ -48,11 +64,63 @@
         "longitude": "74.2179"
       }
     },
+    "Jharkhand": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 2"
+        },
+        {
+          "link": "",
+          "caption": "Person 15"
+        },
+        {
+          "link": "",
+          "caption": "Person 29"
+        },
+        {
+          "link": "",
+          "caption": "Person 30"
+        },
+        {
+          "link": "",
+          "caption": "Person 31"
+        },
+        {
+          "link": "",
+          "caption": "Person 42"
+        }
+      ],
+      "coordinates": {
+        "latitude": "23.6102",
+        "longitude": "85.2799"
+      }
+    },
     "Tamil Nadu": {
       "blocks": [
         {
           "link": "",
           "caption": "Person 8"
+        },
+        {
+          "link": "",
+          "caption": "Person 9"
+        },
+        {
+          "link": "",
+          "caption": "Person 10"
+        },
+        {
+          "link": "",
+          "caption": "Person 21"
+        },
+        {
+          "link": "",
+          "caption": "Person 35"
+        },
+        {
+          "link": "",
+          "caption": "Person 48"
         }
       ],
       "coordinates": {
@@ -65,10 +133,62 @@
         {
           "link": "",
           "caption": "Person 13"
+        },
+        {
+          "link": "",
+          "caption": "Person 26"
+        },
+        {
+          "link": "",
+          "caption": "Person 27"
+        },
+        {
+          "link": "",
+          "caption": "Person 40"
+        },
+        {
+          "link": "",
+          "caption": "Person 53"
+        },
+        {
+          "link": "",
+          "caption": "Person 54"
         }
       ],
       "coordinates": {
         "latitude": "19.7515",
+        "longitude": "75.7139"
+      }
+    },
+    "Karnataka": {
+      "blocks": [
+        {
+          "link": "",
+          "caption": "Person 22"
+        },
+        {
+          "link": "",
+          "caption": "Person 23"
+        },
+        {
+          "link": "",
+          "caption": "Person 36"
+        },
+        {
+          "link": "",
+          "caption": "Person 37"
+        },
+        {
+          "link": "",
+          "caption": "Person 49"
+        },
+        {
+          "link": "",
+          "caption": "Person 50"
+        }
+      ],
+      "coordinates": {
+        "latitude": "15.3173",
         "longitude": "75.7139"
       }
     },
@@ -81,27 +201,31 @@
         {
           "link": "",
           "caption": "Person 12"
+        },
+        {
+          "link": "",
+          "caption": "Person 18"
+        },
+        {
+          "link": "",
+          "caption": "Person 25"
+        },
+        {
+          "link": "",
+          "caption": "Person 32"
+        },
+        {
+          "link": "",
+          "caption": "Person 39"
+        },
+        {
+          "link": "",
+          "caption": "Person 52"
         }
       ],
       "coordinates": {
         "latitude": "18.1124",
         "longitude": "79.0193"
-      }
-    },
-    "Karnataka": {
-      "blocks": [
-        {
-          "link": "",
-          "caption": "Person 9"
-        },
-        {
-          "link": "",
-          "caption": "Person 10"
-        }
-      ],
-      "coordinates": {
-        "latitude": "15.3173",
-        "longitude": "75.7139"
       }
     },
     "Delhi (NCR)": {
@@ -117,6 +241,46 @@
         {
           "link": "",
           "caption": "Person 11"
+        },
+        {
+          "link": "",
+          "caption": "Person 16"
+        },
+        {
+          "link": "",
+          "caption": "Person 20"
+        },
+        {
+          "link": "",
+          "caption": "Person 24"
+        },
+        {
+          "link": "",
+          "caption": "Person 34"
+        },
+        {
+          "link": "",
+          "caption": "Person 38"
+        },
+        {
+          "link": "",
+          "caption": "Person 43"
+        },
+        {
+          "link": "",
+          "caption": "Person 44"
+        },
+        {
+          "link": "",
+          "caption": "Person 45"
+        },
+        {
+          "link": "",
+          "caption": "Person 47"
+        },
+        {
+          "link": "",
+          "caption": "Person 51"
         }
       ],
       "coordinates": {
@@ -125,5 +289,5 @@
       }
     }
   },
-  "totalBlocks": 13
+  "totalBlocks": 54
 }
